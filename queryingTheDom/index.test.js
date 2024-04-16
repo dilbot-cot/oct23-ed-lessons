@@ -4,7 +4,7 @@ const {
   findAllTextBlocks,
   findAllNestedParagraphs,
   findTheFooter,
-} = require("./index.js");
+} = require("./queryingTheDom/index.js");
 
 const zenFile = require("./zen.js");
 
