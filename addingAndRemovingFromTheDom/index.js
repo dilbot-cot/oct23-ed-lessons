@@ -23,4 +23,3 @@ function activity() {
 }
 
 activity();
-
